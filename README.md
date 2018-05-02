@@ -42,6 +42,7 @@ Many of the data set can also be useful in research using [search-based software
 ## Tools
 
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics
+* [MetricsGrimoire](http://chaoss.github.io/grimoirelab/) - Python toolset for software development analytics, supporting +20 data sources, includes data retrieval, storage, identity mmerging, visualization, reporting...
 * [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - A lean Java DSL to
 mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories
 * [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code
